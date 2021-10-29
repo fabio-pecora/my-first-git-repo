@@ -1,0 +1,32 @@
+.hero {
+    background-image:url(https://images.solecollector.com/complex/images/c_crop,h_1688,w_3001,x_125,y_290/sfvuxhdtvhqz4yqggosr/nike-basketball-black-history-month-2020-player-exclusive.jpg);
+    background-size: cover;
+}
+
+.h-100vh {
+    height: 100vh;
+}
+
+.background-color {
+    background: linear-gradient(to bottom, #cffcfc 0%, #49f7f7 100%);
+}
+
+.bebas-neue {
+    font-family: 'Bebas Neue', cursive;
+}
+
+.peco-border {
+    border-radius: 20px;
+}
+
+.submit-border {
+    border-radius: 30px;
+}
+
+.abril-fatface {
+    font-family: 'Abril Fatface', cursive;
+}
+
+.border-color {
+    border: 5px solid maroon; 
+}
