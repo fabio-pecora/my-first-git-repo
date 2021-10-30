@@ -8,7 +8,7 @@
 }
 
 .background-color {
-    background: linear-gradient(to bottom, #cffcfc 0%, #49f7f7 100%);
+    background:linear-gradient(to bottom, #3b0303 0%, #200101 100%);
 }
 
 .bebas-neue {
@@ -29,4 +29,12 @@
 
 .border-color {
     border: 5px solid maroon; 
+}
+
+.fruktur {
+    font-family: 'Fruktur', cursive;
+}
+
+.irish-grover {
+    font-family: 'Irish Grover', cursive;
 }

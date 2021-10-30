@@ -7,8 +7,12 @@
     height: 100vh;
 }
 
+.container {
+    max-width: 960px;
+  }
+
 .background-color {
-    background: linear-gradient(to bottom, #996600 0%, #ff9933 100%);
+    background: linear-gradient(to bottom, #3b0303 0%, #200101 100%);
 }
 
 .bebas-neue {
@@ -28,5 +32,13 @@
 }
 
 .border-color {
-    border: 5px solid maroon; 
+    border: 2px solid maroon; 
+}
+
+.text-color {
+    color: #3b0303
+}
+
+.second-background-color {
+    background-color: rgb(209, 246, 234);
 }

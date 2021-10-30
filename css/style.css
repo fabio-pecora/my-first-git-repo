@@ -1,7 +1,8 @@
 .hero {
     background-image:url(https://images.solecollector.com/complex/images/c_crop,h_1688,w_3001,x_125,y_290/sfvuxhdtvhqz4yqggosr/nike-basketball-black-history-month-2020-player-exclusive.jpg);
-    background-size: cover;
     background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
 .h-100vh {
@@ -9,7 +10,8 @@
 }
 
 .background-color {
-    background: linear-gradient(to bottom, #3b0303 0%, #200101 100%);}
+    background: linear-gradient(to bottom, #3b0303 0%, #200101 100%);
+}
 
 .bebas-neue {
     font-family: 'Bebas Neue', cursive;
@@ -30,4 +32,26 @@
 .border-color {
     border: 5px solid maroon; 
 }
+
+.Crafty-girls{
+    font-family: 'Crafty Girls', cursive;
+}
+
+.glow {
+    font-size: 80px;
+    color: #fff;
+    text-align: center;
+    -webkit-animation: glow 1s ease-in-out infinite alternate;
+    -moz-animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate;
+  }
+  
+  @-webkit-keyframes glow {
+    from {
+      text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #eb3040, 0 0 40px #eb3040, 0 0 50px #eb3040, 0 0 60px #eb3040, 0 0 70px #eb3040;
+    }
+    to {
+      text-shadow: 0 0 20px #fff, 0 0 30px #360303, 0 0 40px #360303, 0 0 50px #360303, 0 0 60px #360303, 0 0 70px #360303, 0 0 80px #360303;
+    }
+  }
 

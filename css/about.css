@@ -3,12 +3,15 @@
     background-size: cover;
 }
 
+.background-page {
+    background: white;
+}
 .h-100vh {
     height: 100vh;
 }
 
 .background-color {
-    background: linear-gradient(to bottom, #800000 0%, #cc0000 100%);
+    background:linear-gradient(to bottom, #3b0303 0%, #200101 100%);
 }
 
 .bebas-neue {
@@ -30,3 +33,12 @@
 .border-color {
     border: 5px solid maroon; 
 }
+
+.color {
+    color:#ad0909;
+}
+
+.img-width {
+    width:auto;
+}
+
